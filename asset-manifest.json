@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clement-portfolio/static/css/main.0e398c72.chunk.css",
+    "main.js": "/clement-portfolio/static/js/main.04a28caa.chunk.js",
+    "main.js.map": "/clement-portfolio/static/js/main.04a28caa.chunk.js.map",
+    "runtime-main.js": "/clement-portfolio/static/js/runtime-main.6e59f75c.js",
+    "runtime-main.js.map": "/clement-portfolio/static/js/runtime-main.6e59f75c.js.map",
+    "static/js/2.954b65e3.chunk.js": "/clement-portfolio/static/js/2.954b65e3.chunk.js",
+    "static/js/2.954b65e3.chunk.js.map": "/clement-portfolio/static/js/2.954b65e3.chunk.js.map",
+    "static/js/3.0d6c22d9.chunk.js": "/clement-portfolio/static/js/3.0d6c22d9.chunk.js",
+    "static/js/3.0d6c22d9.chunk.js.map": "/clement-portfolio/static/js/3.0d6c22d9.chunk.js.map",
+    "index.html": "/clement-portfolio/index.html",
+    "static/css/main.0e398c72.chunk.css.map": "/clement-portfolio/static/css/main.0e398c72.chunk.css.map",
+    "static/js/2.954b65e3.chunk.js.LICENSE.txt": "/clement-portfolio/static/js/2.954b65e3.chunk.js.LICENSE.txt",
+    "static/media/05-third-party-apis-homework-demo.5b3f62cd.gif": "/clement-portfolio/static/media/05-third-party-apis-homework-demo.5b3f62cd.gif",
+    "static/media/Clement-Valles_resume2021.62b04089.pdf": "/clement-portfolio/static/media/Clement-Valles_resume2021.62b04089.pdf",
+    "static/media/Project 1 App.daa0a369.gif": "/clement-portfolio/static/media/Project 1 App.daa0a369.gif",
+    "static/media/Weather-app.6492da6a.gif": "/clement-portfolio/static/media/Weather-app.6492da6a.gif",
+    "static/media/budgetTracker.2e359b35.gif": "/clement-portfolio/static/media/budgetTracker.2e359b35.gif",
+    "static/media/burgerApp.2e9b0759.gif": "/clement-portfolio/static/media/burgerApp.2e9b0759.gif",
+    "static/media/clem-silver.db9eb966.png": "/clement-portfolio/static/media/clem-silver.db9eb966.png",
+    "static/media/partyhub-1.28d4dddb.png": "/clement-portfolio/static/media/partyhub-1.28d4dddb.png",
+    "static/media/partyhub-2.d524ded7.png": "/clement-portfolio/static/media/partyhub-2.d524ded7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e59f75c.js",
+    "static/js/2.954b65e3.chunk.js",
+    "static/css/main.0e398c72.chunk.css",
+    "static/js/main.04a28caa.chunk.js"
+  ]
+}
